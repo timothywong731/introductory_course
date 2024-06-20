@@ -11,6 +11,8 @@ matplotlib = "^3.9.0"
 scikit-learn = "^1.5.0"
 numpy = "^1.26.4"
 pandas = "^2.2.2"
+datasets = "^2.19.2"
+fastapi = "^0.111.0"
 
 
 [tool.poetry.group.dev.dependencies]
